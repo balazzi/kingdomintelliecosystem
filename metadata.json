@@ -1,0 +1,9 @@
+{
+  "name": "KingdomIntelliEcosystem",
+  "description": "A comprehensive AI-powered biblical encyclopedia and spiritual support system providing free wisdom, automated devotionals, and prayer support to all nations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
